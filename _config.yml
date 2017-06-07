@@ -1,0 +1,18 @@
+name: Programlabbet Blog
+layout_spectrum: 0.8257661797106266
+typography_spectrum: 0.4844775968231261
+color:
+  brandStrength: 0.15913169970735908
+  lightness: 0.042595914332196116
+  saturation: 0.892442065756768
+  rhythmicContrast: 0.7192677680868655
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+content: []
+title: Simply A.I.
+description: Putting A.I. to practical use
+github: true
