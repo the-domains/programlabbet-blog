@@ -12,7 +12,32 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7386be08-aeea-4fb0-9f10-9f28863f578f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7386be08-aeea-4fb0-9f10-9f28863f578f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Automating Myself
 description: The quest for an artificial coworker
 github: true
