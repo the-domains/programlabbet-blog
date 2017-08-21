@@ -1,17 +1,17 @@
-typography_spectrum: 0.4844775968231261
+layout_spectrum: 0.9386335352815615
+typography_spectrum: 0.028023169345803338
 color:
-  brandStrength: 0.15913169970735908
-  lightness: 0.042595914332196116
-  saturation: 0.892442065756768
-  rhythmicContrast: 0.7192677680868655
+  brandStrength: 0.31412993577982085
+  lightness: 0.6533446920938827
+  saturation: 0.6956854228645858
+  rhythmicContrast: 0.3436103480062125
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 github: true
-layout_spectrum: 0.8257661797106266
 name: Programlabbet Blog
 navigation:
   - name: About us...
