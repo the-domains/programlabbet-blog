@@ -17,7 +17,7 @@ navigation:
   - name: About us...
     url: 'http://www.programlabbet.se'
     type: external
-title: Automating Myself
+title: The Mind Hive Project
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
