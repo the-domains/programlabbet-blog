@@ -44,3 +44,11 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: The quest for a better development service
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5151210-5ce7-456b-a525-80a014ea739d.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/08495bab-686e-460a-83ce-b586e88dfb2c.jpg
+author:
+  name: Anders Hansson
+  email: anders@programlabbet.se
+  url: 'http://programlabbet.se'
